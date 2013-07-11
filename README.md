@@ -1,0 +1,4 @@
+screenrc
+========
+
+My screen config
